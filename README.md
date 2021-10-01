@@ -22,8 +22,6 @@ we use pickle to save the model
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
- [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
-
-
+ [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://www.mailslurp.com/assets/brands/pytest-python.png" width=200>](https://docs.pytest.org/en/6.2.x/) 
 
 
